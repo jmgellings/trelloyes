@@ -1,0 +1,29 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders the Card UI as expected 1`] = `
+<section
+  className="Card"
+>
+  <button
+    type="button"
+  >
+    delete
+  </button>
+  <h3 />
+  <p />
+</section>
+`;
+
+exports[`renders the UI as expected 1`] = `
+<section
+  className="Card"
+>
+  <button
+    type="button"
+  >
+    delete
+  </button>
+  <h3 />
+  <p />
+</section>
+`;
